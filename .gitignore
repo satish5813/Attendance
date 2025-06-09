@@ -1,0 +1,22 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub/
+build/
+flutter_*.png
+
+# VS Code related
+.vscode/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Generated files
+pubspec.lock
+
+# Windows forms binaries
+LoginSample/LoginSample/bin/
+LoginSample/LoginSample/obj/
